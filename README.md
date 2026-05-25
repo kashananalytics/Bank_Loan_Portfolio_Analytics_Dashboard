@@ -9,7 +9,11 @@
 
 ## 📸 Dashboard Preview
 
-> *(Add your dashboard screenshots here — Page 1: Dashboard · Page 2: Overview)*
+Dashboard Page
+![Dashboard Preview](dashboard.png)
+
+Overview Page
+![Dashboard Preview](dashboard.png)
 
 ---
 
