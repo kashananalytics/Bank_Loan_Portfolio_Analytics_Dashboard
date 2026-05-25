@@ -1,3 +1,5 @@
+<img width="628" height="353" alt="Dashboard Page " src="https://github.com/user-attachments/assets/0530317c-404a-4272-9dcf-a4fa28865753" />
+<img width="628" height="353" alt="Overview Page" src="https://github.com/user-attachments/assets/d0f936e3-a7cc-4464-817d-758ea4c86f01" />
 # Bank_Loan_Portfolio_Analytics_Dashboard
 473M received. 435M funded. 13.82% bad loan rate. A full bank loan portfolio analytics dashboard built in Power BI with risk breakdown, monthly trends and state-level mapping.
 
