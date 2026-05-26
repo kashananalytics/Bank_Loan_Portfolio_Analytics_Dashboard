@@ -255,3 +255,10 @@ Avg DTI Ratio = AVERAGE('Loan Data'[dti])
 ---
 
 *Feel free to fork this or use the DAX measures for your own banking, finance or risk analytics projects.*
+
+<br>
+# Author
+<br>
+Kashan Ahmed
+<br>
+Statistics Graduate | Data Analyst & Power BI Developer.
